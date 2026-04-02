@@ -229,6 +229,8 @@ Three-page interactive dashboard with dark executive theme, semantic colour codi
 | Avg Price by Condition | Poor=red → Excellent=green |
 | Price Efficiency by Make | Gradient bar with 1.0 reference line |
 
+![Pricing & Depreciation](https://github.com/soumimukherjee22/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard/blob/main/Pricing%20%26%20Depreciation.png)
+
 ### Page 3 — Regional Analysis
 | Visual | Measure(s) |
 |--------|-----------|
