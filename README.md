@@ -313,7 +313,7 @@ df.to_csv('exports/vehicle_sales_clean.csv', index=False)
 ```
 
 ### 5. Open the dashboard
-Open `Dashboard_2.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) and refresh the data source to point to your exported CSV.
+Open `Vehicle Sales Dashboard.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) and refresh the data source to point to your exported CSV.
 
 ---
 
