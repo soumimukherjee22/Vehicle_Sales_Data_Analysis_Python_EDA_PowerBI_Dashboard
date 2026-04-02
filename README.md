@@ -240,6 +240,8 @@ Three-page interactive dashboard with dark executive theme, semantic colour codi
 | Revenue by State | Filled map |
 | State Performance | Pivot table with conditional formatting |
 
+![Regional Analysis](https://github.com/soumimukherjee22/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard/blob/main/Regional%20Analysis.png)
+
 ### Slicers (synced across all pages)
 `Sale Year` · `Make` · `Body Type` · `State`
 
