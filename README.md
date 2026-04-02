@@ -217,6 +217,8 @@ Three-page interactive dashboard with dark executive theme, semantic colour codi
 | Top 10 Makes by Revenue | Bar (green→red gradient) |
 | Revenue per Age | Colour-graded bar |
 
+![Overview](https://github.com/soumimukherjee22/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard/blob/main/Overview.png)
+
 ### Page 2 — Pricing & Depreciation
 | Visual | Measure(s) |
 |--------|-----------|
