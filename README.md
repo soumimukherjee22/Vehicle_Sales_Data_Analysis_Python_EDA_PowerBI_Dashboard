@@ -401,7 +401,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **⭐ If this project helped you, please give it a star!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soumimukherjeeofficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumimukherjeeofficial/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoumiMukherjee22)
 
 </div>
